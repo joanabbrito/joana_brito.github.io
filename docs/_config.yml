@@ -5,7 +5,5 @@ github_username:  jekyll
 
 # Build settings
 theme: minima
-#theme: minima
-remote-theme: al-folio
 plugins:
   - jekyll-feed
